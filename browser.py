@@ -6,7 +6,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-BASE_URL = "https://selenium.dev/"
+BASE_URL = "https://cloudnautic.in/"
 REPORT_DIR = os.path.dirname(os.path.abspath(__file__))
 
 
